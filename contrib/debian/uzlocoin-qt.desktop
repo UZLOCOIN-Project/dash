@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Uzlocoin
+Comment=Uzlocoin P2P Cryptocurrency
+Comment[fr]=Uzlocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Uzlocoin, eşten eşe kriptografik sanal para birimi
+Exec=uzlocoin-qt %u
+Terminal=false
+Type=Application
+Icon=uzlocoin128
+MimeType=x-scheme-handler/uzlocoin;
+Categories=Office;Finance;

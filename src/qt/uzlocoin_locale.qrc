@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/uzlocoin_bg.qm</file>
+        <file alias="ca">locale/uzlocoin_ca.qm</file>
+        <file alias="cs">locale/uzlocoin_cs.qm</file>
+        <file alias="da">locale/uzlocoin_da.qm</file>
+        <file alias="de">locale/uzlocoin_de.qm</file>
+        <file alias="en">locale/uzlocoin_en.qm</file>
+        <file alias="en_US">locale/uzlocoin_en_US.qm</file>
+        <file alias="es">locale/uzlocoin_es.qm</file>
+        <file alias="fi">locale/uzlocoin_fi.qm</file>
+        <file alias="fr_FR">locale/uzlocoin_fr_FR.qm</file>
+        <file alias="hr">locale/uzlocoin_hr.qm</file>
+        <file alias="it">locale/uzlocoin_it.qm</file>
+        <file alias="ja">locale/uzlocoin_ja.qm</file>
+        <file alias="ko_KR">locale/uzlocoin_ko_KR.qm</file>
+        <file alias="nl">locale/uzlocoin_nl.qm</file>
+        <file alias="pl">locale/uzlocoin_pl.qm</file>
+        <file alias="pt">locale/uzlocoin_pt.qm</file>
+        <file alias="pt_BR">locale/uzlocoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/uzlocoin_ro_RO.qm</file>
+        <file alias="ru">locale/uzlocoin_ru.qm</file>
+        <file alias="sk">locale/uzlocoin_sk.qm</file>
+        <file alias="sv">locale/uzlocoin_sv.qm</file>
+        <file alias="tr">locale/uzlocoin_tr.qm</file>
+        <file alias="uk">locale/uzlocoin_uk.qm</file>
+        <file alias="zh_CN">locale/uzlocoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/uzlocoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

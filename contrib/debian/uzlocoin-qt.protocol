@@ -1,0 +1,11 @@
+[Protocol]
+exec=uzlocoin-qt '%u'
+protocol=uzlocoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

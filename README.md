@@ -16,9 +16,9 @@ Since then, the Uzlocoin repository has been rebaselined to show the fork relati
 
 ## BCT Thread ##
 
-https://bitcointalk.org/index.php?topic=2307909.0
+https://bitcointalk.org/index.php?topic=7909.0
 
-Rebrand from KryptKoin [KTK] to Uzlocoin [UZL]
+Rebrand from Litecoin [LTC] to Uzlocoin [UZL]
 
 ## Coin Specs ##
 <table>

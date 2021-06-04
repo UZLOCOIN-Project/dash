@@ -5534,7 +5534,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Uzlocoin Alert&quot; admin@foo
         <translation>Copyright (C) 2015-%i UZLOX コア開発者チーム</translation>
     </message>
     <message>
-        <source>Copyright (C) 2017-%i The Uzlocoin Developers</source>
+        <source>Copyright (C) 2020-%i The Uzlocoin Developers</source>
         <translation>Copyright (C) 2015-%i Uzlocoin コア開発者チーム {2017-?}</translation>
     </message>
     <message>

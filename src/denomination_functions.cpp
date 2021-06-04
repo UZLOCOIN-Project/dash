@@ -6,7 +6,7 @@
  * @copyright  Copyright 2017 UZLOX Developers
  * @license    This project is released under the MIT license.
  **/
-// Copyright (c) 2015-2017 The UZLOX developers
+// Copyright (c) 2020-2021 The UZLOX developers
 
 #include "denomination_functions.h"
 

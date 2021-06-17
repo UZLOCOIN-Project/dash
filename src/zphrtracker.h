@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The UZLOX developers
+// Copyright (c) 2020 The UZLO CORE developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_ZUZLTRACKER_H
-#define UZLOCOIN_ZUZLTRACKER_H
+#ifndef PHORE_ZUZLTRACKER_H
+#define PHORE_ZUZLTRACKER_H
 
 #include "primitives/zerocoin.h"
 #include <list>
@@ -48,5 +48,5 @@ public:
     void Clear();
 };
 
-#endif //UZLOCOIN_ZUZLTRACKER_H
+#endif //PHORE_ZUZLTRACKER_H
 

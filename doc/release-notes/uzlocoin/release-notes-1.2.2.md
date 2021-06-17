@@ -37,4 +37,4 @@ Credits
 meyer9 for work on the code code
 tohsnoom for setting up a DNS seed
 
-As well as the entire UZLOX team!
+As well as the entire PIVX team!

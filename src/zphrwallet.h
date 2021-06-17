@@ -1,9 +1,9 @@
-// Copyright (c) 2017-2018 The UZLOX developers
+// Copyright (c) 2017-2020 The PIVX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_ZUZLWALLET_H
-#define UZLOCOIN_ZUZLWALLET_H
+#ifndef PHORE_ZUZLWALLET_H
+#define PHORE_ZUZLWALLET_H
 
 #include <map>
 #include "libzerocoin/Coin.h"
@@ -45,5 +45,5 @@ private:
     uint512 GetZerocoinSeed(uint32_t n);
 };
 
-#endif //UZLOCOIN_ZUZLWALLET_H
+#endif //PHORE_ZUZLWALLET_H
 

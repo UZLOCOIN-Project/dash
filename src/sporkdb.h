@@ -1,9 +1,9 @@
-// Copyright (c) 2017 The UZLOX developers
+// Copyright (c) 2017 The PIVX developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_CSPORKDB_H
-#define UZLOCOIN_CSPORKDB_H
+#ifndef PHORE_CSPORKDB_H
+#define PHORE_CSPORKDB_H
 
 #include <boost/filesystem/path.hpp>
 #include "leveldbwrapper.h"
@@ -25,4 +25,4 @@ public:
 };
 
 
-#endif //UZLOCOIN_CSPORKDB_H
+#endif //PHORE_CSPORKDB_H

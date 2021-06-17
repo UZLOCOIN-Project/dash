@@ -1,7 +1,7 @@
 Uzlocoin Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/uzlocoin/uzlocoin.svg?branch=master)](https://travis-ci.org/uzlocoin/uzlocoin)
+[![Build Status](https://travis-ci.org/uzlocoinproject/Uzlocoin.svg?branch=master)](https://travis-ci.org/uzlocoinproject/Uzlocoin)
 
 Uzlocoin is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - Anonymized transactions using zerocoin technology
@@ -16,9 +16,9 @@ Since then, the Uzlocoin repository has been rebaselined to show the fork relati
 
 ## BCT Thread ##
 
-https://bitcointalk.org/index.php?topic=7909.0
+https://bitcointalk.org/index.php?topic=2307909.0
 
-Rebrand from Litecoin [LTC] to Uzlocoin [UZL]
+Rebrand from KryptKoin [KTK] to Uzlocoin [UZL]
 
 ## Coin Specs ##
 <table>

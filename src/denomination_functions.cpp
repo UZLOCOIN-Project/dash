@@ -3,7 +3,7 @@
  *
  * @brief      Denomination functions for the Zerocoin library.
  *
- * @copyright  Copyright 2017 UZLOX Developers
+ * @copyright  Copyright 2017 PIVX Developers
  * @license    This project is released under the MIT license.
  **/
 // Copyright (c) 2020-2021 The UZLOX developers

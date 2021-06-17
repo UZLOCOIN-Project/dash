@@ -30,4 +30,4 @@ Credits
 
 - Julian Meyer
 
-As well as the entire Bitcoin, Dash, and UZLOX teams!
+As well as the entire Bitcoin, Dash, and PIVX teams!

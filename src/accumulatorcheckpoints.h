@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The UZLOX developers
+// Copyright (c) 2020 The UZLO CORE developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_ACCUMULATORCHECKPOINTS_H
-#define UZLOCOIN_ACCUMULATORCHECKPOINTS_H
+#ifndef PHORE_ACCUMULATORCHECKPOINTS_H
+#define PHORE_ACCUMULATORCHECKPOINTS_H
 
 #include <libzerocoin/bignum.h>
 #include <univalue/include/univalue.h>
@@ -18,4 +18,4 @@ namespace AccumulatorCheckpoints
     Checkpoint GetClosestCheckpoint(const int& nHeight, int& nHeightCheckpoint);
 }
 
-#endif //UZLOCOIN_ACCUMULATORCHECKPOINTS_H
+#endif //PHORE_ACCUMULATORCHECKPOINTS_H

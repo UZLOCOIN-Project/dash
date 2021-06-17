@@ -36,7 +36,7 @@ public:
     CBaseTestNetParams()
     {
         networkID = CBaseChainParams::TESTNET;
-        nRPCPort = 6333;
+        nRPCPort = 6332;
         strDataDir = "testnet4";
     }
 };

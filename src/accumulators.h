@@ -1,9 +1,9 @@
-// Copyright (c) 2017-2018 The UZLOX developers
+// Copyright (c) 2017-2020 The PIVX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_ACCUMULATORS_H
-#define UZLOCOIN_ACCUMULATORS_H
+#ifndef PHORE_ACCUMULATORS_H
+#define PHORE_ACCUMULATORS_H
 
 #include "libzerocoin/Accumulator.h"
 #include "libzerocoin/Coin.h"
@@ -29,4 +29,4 @@ uint32_t ParseChecksum(uint256 nChecksum, libzerocoin::CoinDenomination denomina
 uint32_t GetChecksum(const CBigNum &bnValue);
 int GetChecksumHeight(uint32_t nChecksum, libzerocoin::CoinDenomination denomination);
 
-#endif //UZLOCOIN_ACCUMULATORS_H
+#endif //PHORE_ACCUMULATORS_H

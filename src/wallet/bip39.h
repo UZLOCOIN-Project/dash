@@ -21,8 +21,8 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#ifndef UZLOCOIN_BIP39_H
-#define UZLOCOIN_BIP39_H
+#ifndef PHORE_BIP39_H
+#define PHORE_BIP39_H
 
 #include "allocators.h"
 

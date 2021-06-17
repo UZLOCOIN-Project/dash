@@ -33,7 +33,7 @@ uzlocoind/uzlocoin-qt (on Linux).
     - Add tests for wallet
     - Add tests for segwit
   - Update wallet to find SegWit transactions
-- Merge with UZLOX upstream v3.1.0
+- Merge with PIVX upstream v3.1.0
   - Make Zerocoin deterministic
   - Fix wallet bugs causing corruption
   - Fix Zerocoin modulus bug
@@ -53,4 +53,4 @@ Credits
 - tohsnoom
 - wqking
 
-As well as the entire Bitcoin, Dash, and UZLOX teams!
+As well as the entire Bitcoin, Dash, and PIVX teams!

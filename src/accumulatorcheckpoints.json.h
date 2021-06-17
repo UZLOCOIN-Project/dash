@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The UZLOX developers
+// Copyright (c) 2020 The UZLO CORE developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_ACCUMULATORCHECKPOINTS_JSON_H
-#define UZLOCOIN_ACCUMULATORCHECKPOINTS_JSON_H
+#ifndef PHORE_ACCUMULATORCHECKPOINTS_JSON_H
+#define PHORE_ACCUMULATORCHECKPOINTS_JSON_H
 
 #include <string>
 std::string GetMainCheckpoints() {
@@ -310,4 +310,4 @@ std::string GetRegTestCheckpoints() {
     return strRegTestCheckpoints;
 }
 
-#endif //UZLOCOIN_ACCUMULATORCHECKPOINTS_JSON_H
+#endif //PHORE_ACCUMULATORCHECKPOINTS_JSON_H

@@ -23,7 +23,7 @@ uzlocoind/uzlocoin-qt (on Linux).
 1.2.1 changelog
 ----------------
 
-Switched to UZLOX Core version v3.0.6 - https://github.com/UZLOX-Project/UZLOX/releases/tag/v3.0.6
+Switched to PIVX Core version v3.0.6 - https://github.com/PIVX-Project/PIVX/releases/tag/v3.0.6
 - Automated database corruption repair
 - More accurate error messages
 - Reduction of debug log spam
@@ -57,4 +57,4 @@ tohsnoom
 diogenes
 konez2k
 
-As well as the entire UZLOX team!
+As well as the entire PIVX team!

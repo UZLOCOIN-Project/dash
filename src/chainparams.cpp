@@ -265,7 +265,7 @@ public:
         nMasternodeCountDrift = 4;
         nModifierUpdateBlock = 1; //approx Mon, 17 Apr 2017 04:00:00 GMT
         nMaxMoneyOut = 43199500 * COIN;
-        nLastPOWBlock = 1;
+        nLastPOWBlock = 999999999;
         nZerocoinStartHeight = 1;
 
         nZerocoinLastOldParams = 500000;

@@ -504,7 +504,7 @@ UniValue dumpwallet(const UniValue& params, bool fHelp)
     mapKeyBirth.clear();
     std::sort(vKeyBirth.begin(), vKeyBirth.end());
     // produce output
-    file << strprintf("# Wallet dump created by UZLOCOIN %s (%s)\n", CLIENT_BUILD, CLIENT_DATE);
+    file << strprintf("# Wallet dump created by PHORE %s (%s)\n", CLIENT_BUILD, CLIENT_DATE);
     file << strprintf("# * Created on %s\n", EncodeDumpTime(GetTime()));
     file << strprintf("# * Best block at time of backup was %i (%s),\n", chainActive.Height(), chainActive.Tip()->GetBlockHash().ToString());
     file << strprintf("#   mined on %s\n", EncodeDumpTime(chainActive.Tip()->GetBlockTime()));

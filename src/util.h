@@ -33,8 +33,8 @@
 // Debugging macros
 // Uncomment the following line to enable debugging messages
 // or enable on a per file basis prior to inclusion of util.h
-//#define ENABLE_UZLOCOIN_DEBUG
-#ifdef ENABLE_UZLOCOIN_DEBUG
+//#define ENABLE_PHORE_DEBUG
+#ifdef ENABLE_PHORE_DEBUG
 #define DBG( x ) x
 #else
 #define DBG( x )

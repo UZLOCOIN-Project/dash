@@ -1,9 +1,9 @@
-// Copyright (c) 2017-2018 The UZLOX developers
+// Copyright (c) 2017-2020 The PIVX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_MINTPOOL_H
-#define UZLOCOIN_MINTPOOL_H
+#ifndef PHORE_MINTPOOL_H
+#define PHORE_MINTPOOL_H
 
 #include <map>
 #include <list>
@@ -50,5 +50,5 @@ public:
 };
 
 
-#endif //UZLOCOIN_MINTPOOL_H
+#endif //PHORE_MINTPOOL_H
 

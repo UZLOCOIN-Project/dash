@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The UZLOX developers
+// Copyright (c) 2020 The UZLO CORE developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_SPENDTYPE_H
-#define UZLOCOIN_SPENDTYPE_H
+#ifndef PHORE_SPENDTYPE_H
+#define PHORE_SPENDTYPE_H
 
 #include <cstdint>
 
@@ -16,4 +16,4 @@ namespace libzerocoin {
     };
 }
 
-#endif //UZLOX_SPENDTYPE_H
+#endif //PIVX_SPENDTYPE_H

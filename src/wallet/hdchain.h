@@ -1,7 +1,7 @@
 // Copyright (c) 2014-2017 The Dash Core developers
 // Distributed under the MIT software license, see the accompanying
-#ifndef UZLOCOIN_HDCHAIN_H
-#define UZLOCOIN_HDCHAIN_H
+#ifndef PHORE_HDCHAIN_H
+#define PHORE_HDCHAIN_H
 
 #include "key.h"
 #include "sync.h"
@@ -150,4 +150,4 @@ public:
     std::string GetKeyPath() const;
 };
 
-#endif // UZLOCOIN_HDCHAIN_H
+#endif // PHORE_HDCHAIN_H

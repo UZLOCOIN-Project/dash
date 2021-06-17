@@ -200,12 +200,12 @@ class Application :
 		makeDirs(self._rootPath)
 		print('Root path: %s' % (self._rootPath))
 		
-		self._uzlocoind = os.getenv('UZLOCOIND', None)
+		self._uzlocoind = os.getenv('PHORED', None)
 		if not self._uzlocoind :
-			die('Undefined UZLOCOIND')
-		self._uzlocoinCli = os.getenv('UZLOCOINCLI', None)
+			die('Undefined PHORED')
+		self._uzlocoinCli = os.getenv('PHORECLI', None)
 		if not self._uzlocoinCli :
-			die('Undefined UZLOCOINCLI')
+			die('Undefined PHORECLI')
 		print('uzlocoind: %s' % (self._uzlocoind))
 	
 	def _cleanup(self) :

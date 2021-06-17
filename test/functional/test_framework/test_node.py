@@ -68,7 +68,7 @@ class TestNode():
             # Wait for up to 60 seconds for the RPC server to respond
             self.rpc_timeout = 60
         if binary is None:
-            self.binary = os.getenv("UZLOCOIND", "uzlocoind")
+            self.binary = os.getenv("PHORED", "uzlocoind")
         else:
             self.binary = binary
         self.stderr = stderr
@@ -82,7 +82,7 @@ class TestNode():
         self.args = [self.binary, "-datadir=" + self.datadir, "-logtimemicros", "-debug", "-debugexclude=libevent", "-debugexclude=leveldb", "-mocktime=" + str(mocktime), "-uacomment=testnode%d" % i]
         #print(self.args)
 
-        self.cli = TestNodeCLI(os.getenv("UZLOCOINCLI", "uzlocoin-cli"), self.datadir)
+        self.cli = TestNodeCLI(os.getenv("PHORECLI", "uzlocoin-cli"), self.datadir)
         self.use_cli = use_cli
 
         self.running = False

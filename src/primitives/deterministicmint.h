@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The UZLOX developers
+// Copyright (c) 2020 The UZLO CORE developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_DETERMINISTICMINT_H
-#define UZLOCOIN_DETERMINISTICMINT_H
+#ifndef PHORE_DETERMINISTICMINT_H
+#define PHORE_DETERMINISTICMINT_H
 
 #include "libzerocoin/Denominations.h"
 #include "uint256.h"
@@ -64,4 +64,4 @@ public:
     };
 };
 
-#endif //UZLOCOIN_DETERMINISTICMINT_H
+#endif //PHORE_DETERMINISTICMINT_H

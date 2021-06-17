@@ -1,9 +1,9 @@
-// Copyright (c) 2017-2018 The UZLOX developers
+// Copyright (c) 2017-2020 The PIVX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_ZEROCOIN_H
-#define UZLOCOIN_ZEROCOIN_H
+#ifndef PHORE_ZEROCOIN_H
+#define PHORE_ZEROCOIN_H
 
 #include "amount.h"
 #include "limits.h"
@@ -247,4 +247,4 @@ public:
     int GetNeededSpends();
 };
 
-#endif //UZLOCOIN_ZEROCOIN_H
+#endif //PHORE_ZEROCOIN_H

@@ -17,8 +17,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef UZLOCOIN_ARRAYSLICE_H
-#define UZLOCOIN_ARRAYSLICE_H
+#ifndef PHORE_ARRAYSLICE_H
+#define PHORE_ARRAYSLICE_H
 
 #include <array>
 
@@ -42,4 +42,4 @@ private:
     const Iterable* end_;
 };
 
-#endif //UZLOCOIN_ARRAYSLICE_H
+#endif //PHORE_ARRAYSLICE_H

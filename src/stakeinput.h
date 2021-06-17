@@ -1,9 +1,9 @@
-// Copyright (c) 2020-2021 The UZLOX developers
+// Copyright (c) 2017-2019 The PIVX developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef UZLOCOIN_STAKEINPUT_H
-#define UZLOCOIN_STAKEINPUT_H
+#ifndef PHORE_STAKEINPUT_H
+#define PHORE_STAKEINPUT_H
 
 #include "chain.h"
 #include "streams.h"
@@ -60,4 +60,4 @@ public:
 };
 
 
-#endif //UZLOCOIN_STAKEINPUT_H
+#endif //PHORE_STAKEINPUT_H

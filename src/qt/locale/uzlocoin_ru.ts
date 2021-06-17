@@ -2032,8 +2032,8 @@ https://www.transifex.com/uzlocoin-project/uzlocoin-project-translations</transl
         <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью Uzlocoin после установки соединения, но этот процесс еще не завершен. </translation>
     </message>
     <message>
-        <source>Enter an amount of Phr to convert to zPhr</source>
-        <translation>Введите сумму в Phr для  конвертации в zPhr</translation>
+        <source>Enter an amount of Uzl to convert to zUzl</source>
+        <translation>Введите сумму в Uzl для  конвертации в zUzl</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>

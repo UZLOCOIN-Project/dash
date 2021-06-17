@@ -298,9 +298,9 @@ void PrivacyDialog::on_pushButtonZPhrControl_clicked()
 {
     if (!walletModel || !walletModel->getOptionsModel())
         return;
-    ZPhrControlDialog* zPhrControl = new ZPhrControlDialog(this);
-    zPhrControl->setModel(walletModel);
-    zPhrControl->exec();
+    ZPhrControlDialog* zUzlControl = new ZPhrControlDialog(this);
+    zUzlControl->setModel(walletModel);
+    zUzlControl->exec();
 }
 
 void PrivacyDialog::setZPhrControlLabels(int64_t nAmount, int nQuantity)
@@ -507,7 +507,7 @@ void PrivacyDialog::sendzUZL()
 
     CAmount nValueOut = 0;
     for (const CTxOut& txout: wtxNew.vout) {
-        strStats += tr("value out: ") + FormatMoney(txout.nValue).c_str() + " Phr, ";
+        strStats += tr("value out: ") + FormatMoney(txout.nValue).c_str() + " Uzl, ";
         nValueOut += txout.nValue;
 
         strStats += tr("address: ");

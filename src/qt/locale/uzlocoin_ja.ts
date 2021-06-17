@@ -3888,27 +3888,27 @@ Immature: confirmed, but less than 3 mints of the same denomination after it was
         <translation>枚数は残高から増減されます。</translation>
     </message>
     <message>
-        <source>Converted Phr to zPhr</source>
+        <source>Converted Uzl to zUzl</source>
         <translation>UZLをzUZLへ変換</translation>
     </message>
     <message>
-        <source>Spent zPhr</source>
+        <source>Spent zUzl</source>
         <translation>zUZLを送金</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation>zUZLによる受け取り</translation>
     </message>
     <message>
-        <source>Minted Change as zPhr from zPhr Spend</source>
+        <source>Minted Change as zUzl from zUzl Spend</source>
         <translation>zUZLの送金のお釣りをzUZLに変換</translation>
     </message>
     <message>
-        <source>Converted zPhr to Phr</source>
+        <source>Converted zUzl to Uzl</source>
         <translation>zUZLからUZLへ変換</translation>
     </message>
     <message>
-        <source>zPhr Accumulator</source>
+        <source>zUzl Accumulator</source>
         <translation>zUZLアキュムレータ</translation>
     </message>
 </context>
@@ -4087,7 +4087,7 @@ Immature: confirmed, but less than 3 mints of the same denomination after it was
         <translation>から</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation>zUZLからUZLへの受け取り</translation>
     </message>
     <message>
@@ -4099,7 +4099,7 @@ Immature: confirmed, but less than 3 mints of the same denomination after it was
         <translation>ゼロコインの送金</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zPhr</source>
+        <source>Zerocoin Spend, Change in zUzl</source>
         <translation>ゼロコインの送金,お釣りをzUZLで受け取り</translation>
     </message>
     <message>
@@ -5462,7 +5462,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Uzlocoin Alert&quot; admin@foo
         <translation>Uzlocoinの全特徴を無効化する(マスターノード/匿名化/SwiftX/予算案) (0-1, デフォルト: %u)</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zPhr minting (0-1, default: %u)</source>
+        <source>Enable automatic wallet backups triggered after each zUzl minting (0-1, default: %u)</source>
         <translation>zUZLへの変換後自動でウォレットをバックアップする(0-1, デフォルト: %u)</translation>
     </message>
     <message>
@@ -5645,7 +5645,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Uzlocoin Alert&quot; admin@foo
 <context>
     <name>zphrcontroldialog</name>
     <message>
-        <source>Select zPhr to Spend</source>
+        <source>Select zUzl to Spend</source>
         <translation>送金したいzUZLを選択</translation>
     </message>
     <message>
@@ -5692,7 +5692,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Uzlocoin Alert&quot; admin@foo
         <translation>表示されている情報は古いものかもしれません。Uzlocoinネットワークに接続後自動的に同期が行われますが、まだ同期は完了していません。</translation>
     </message>
     <message>
-        <source>Enter an amount of Phr to convert to zPhr</source>
+        <source>Enter an amount of Uzl to convert to zUzl</source>
         <translation>zUZLへ変換したいUZLの枚数を入力</translation>
     </message>
     <message>
@@ -5740,7 +5740,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Uzlocoin Alert&quot; admin@foo
         <translation>ステータス・直前の変換アクションでのメッセージログ。</translation>
     </message>
     <message>
-        <source>zPhr Control</source>
+        <source>zUzl Control</source>
         <translation>zUZL コントロール</translation>
     </message>
     <message>

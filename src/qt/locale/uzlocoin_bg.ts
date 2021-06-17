@@ -2076,7 +2076,7 @@ https://www.transifex.com/uzlocoin-project/uzlocoin-project-translations</transl
         <translation>Информацията на вашия екран може би е стара. Вашия портфейла синхронизира автоматично с Uzlocoin мрежата след като има успешна свръзка, но процеса отнема време и не е завършил все още.</translation>
     </message>
     <message>
-        <source>Enter an amount of Phr to convert to zPhr</source>
+        <source>Enter an amount of Uzl to convert to zUzl</source>
         <translation>Въведете колко UZL  да се конвертират в zUZL</translation>
     </message>
     <message>
@@ -2132,11 +2132,11 @@ https://www.transifex.com/uzlocoin-project/uzlocoin-project-translations</transl
         <translation>Състояния и/или Съобщения от последните действия по сечене на монети.</translation>
     </message>
     <message>
-        <source>zPhr Control</source>
+        <source>zUzl Control</source>
         <translation>zUZL Контрол</translation>
     </message>
     <message>
-        <source>zPhr Selected:</source>
+        <source>zUzl Selected:</source>
         <translation>Избрани zUZL:</translation>
     </message>
     <message>
@@ -2474,7 +2474,7 @@ Please be patient...</source>
         <translation>Харченето на Zerocoin се провали със статус =</translation>
     </message>
     <message>
-        <source>zPhr Spend #: </source>
+        <source>zUzl Spend #: </source>
         <translation>zUZL Похарчени #:</translation>
     </message>
     <message>
@@ -2498,7 +2498,7 @@ Please be patient...</source>
         <translation>адрес:</translation>
     </message>
     <message>
-        <source>zPhr Mint</source>
+        <source>zUzl Mint</source>
         <translation>Сечене на zUZL</translation>
     </message>
     <message>
@@ -3955,23 +3955,23 @@ Please be patient...</source>
         <translation>Обфускирани</translation>
     </message>
     <message>
-        <source>Converted Phr to zPhr</source>
+        <source>Converted Uzl to zUzl</source>
         <translation>Конвертиран UZL във zUZL</translation>
     </message>
     <message>
-        <source>Spent zPhr</source>
+        <source>Spent zUzl</source>
         <translation>Похарчени zUZL</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation>Получен UZL от zUZL</translation>
     </message>
     <message>
-        <source>Minted Change as zPhr from zPhr Spend</source>
+        <source>Minted Change as zUzl from zUzl Spend</source>
         <translation>Исечено ресто като zUZL от похарчените zUZL</translation>
     </message>
     <message>
-        <source>Converted zPhr to Phr</source>
+        <source>Converted zUzl to Uzl</source>
         <translation>Конвертирани zUZL в UZL</translation>
     </message>
     <message>
@@ -3979,7 +3979,7 @@ Please be patient...</source>
         <translation>наблюдение само</translation>
     </message>
     <message>
-        <source>zPhr Accumulator</source>
+        <source>zUzl Accumulator</source>
         <translation>zUZL Акумулатор</translation>
     </message>
     <message>
@@ -4086,7 +4086,7 @@ Please be patient...</source>
         <translation>Мастърноуд възнаграждение</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation>Получен UZL от zUZL</translation>
     </message>
     <message>
@@ -4098,7 +4098,7 @@ Please be patient...</source>
         <translation>Харчене на Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zPhr</source>
+        <source>Zerocoin Spend, Change in zUzl</source>
         <translation>Харчене на Zerocoin, Ресто в zUZL</translation>
     </message>
     <message>
@@ -4261,7 +4261,7 @@ Please be patient...</source>
 <context>
     <name>ZPhrControlDialog</name>
     <message>
-        <source>Select zPhr to Spend</source>
+        <source>Select zUzl to Spend</source>
         <translation>Изберете zUZL за Изпращане</translation>
     </message>
     <message>
@@ -4273,7 +4273,7 @@ Please be patient...</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPhr</source>
+        <source>zUzl</source>
         <translation>zUZL</translation>
     </message>
     <message>

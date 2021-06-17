@@ -1979,8 +1979,8 @@
         <translation>0</translation>
     </message>
     <message>
-        <source>zPhr</source>
-        <translation>zPhr</translation>
+        <source>zUzl</source>
+        <translation>zUzl</translation>
     </message>
     </context>
 <context>

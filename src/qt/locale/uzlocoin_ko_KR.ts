@@ -2080,7 +2080,7 @@ https://www.transifex.com/uzlocoin-project/uzlocoin-project-translations</transl
         <translation>표시된 정보가 오래되었을 수 있습니다. 연결이 완료되면 지갑이 Uzlocoin 네트워크와 자동으로 동기화될 예정이지만, 아직 해당 프로세스가 완료되지 않았습니다.</translation>
     </message>
     <message>
-        <source>Enter an amount of Phr to convert to zPhr</source>
+        <source>Enter an amount of Uzl to convert to zUzl</source>
         <translation>zUZL로 변환할 UZL 수량을 입력하세요.</translation>
     </message>
     <message>
@@ -2136,11 +2136,11 @@ https://www.transifex.com/uzlocoin-project/uzlocoin-project-translations</transl
         <translation>마지막 발행 이후 상태나 메세지</translation>
     </message>
     <message>
-        <source>zPhr Control</source>
+        <source>zUzl Control</source>
         <translation>zUZL 설정</translation>
     </message>
     <message>
-        <source>zPhr Selected:</source>
+        <source>zUzl Selected:</source>
         <translation>선택한 zUZL : </translation>
     </message>
     <message>
@@ -2478,8 +2478,8 @@ Please be patient...</source>
         <translation>제로코인 송금 실패 상태 =</translation>
     </message>
     <message>
-        <source>zPhr Spend #: </source>
-        <translation>zPhr 송금 #: </translation>
+        <source>zUzl Spend #: </source>
+        <translation>zUzl 송금 #: </translation>
     </message>
     <message>
         <source>denomination: </source>
@@ -2502,7 +2502,7 @@ Please be patient...</source>
         <translation>주소:</translation>
     </message>
     <message>
-        <source>zPhr Mint</source>
+        <source>zUzl Mint</source>
         <translation>zUZL 생성</translation>
     </message>
     <message>
@@ -3961,32 +3961,32 @@ Please be patient...</source>
         <translation>난독화</translation>
     </message>
     <message>
-        <source>Converted Phr to zPhr</source>
+        <source>Converted Uzl to zUzl</source>
         <translation>zUZL로 변환된 UZL</translation>
     </message>
     <message>
-        <source>Spent zPhr</source>
+        <source>Spent zUzl</source>
         <translation>전송된 zUZL</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation>zUZL로 전송받은 UZL</translation>
     </message>
     <message>
-        <source>Minted Change as zPhr from zPhr Spend</source>
+        <source>Minted Change as zUzl from zUzl Spend</source>
         <translation>zUZL 전송후 남은 잔돈 zUZL 생성됨</translation>
     </message>
     <message>
-        <source>Converted zPhr to Phr</source>
-        <translation>zPhr에서 Phr로 변환됨</translation>
+        <source>Converted zUzl to Uzl</source>
+        <translation>zUzl에서 Uzl로 변환됨</translation>
     </message>
     <message>
         <source>watch-only</source>
         <translation>읽기 전용</translation>
     </message>
     <message>
-        <source>zPhr Accumulator</source>
-        <translation>zPhr 누산기</translation>
+        <source>zUzl Accumulator</source>
+        <translation>zUzl 누산기</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -4096,7 +4096,7 @@ Please be patient...</source>
         <translation>마스터노드 보상 </translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation>zUZL로 전송받은 UZL</translation>
     </message>
     <message>
@@ -4108,7 +4108,7 @@ Please be patient...</source>
         <translation>제로코인 전송</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zPhr</source>
+        <source>Zerocoin Spend, Change in zUzl</source>
         <translation>제로코인 전송, 잔돈은 zUZL</translation>
     </message>
     <message>
@@ -4279,7 +4279,7 @@ Please be patient...</source>
 <context>
     <name>ZPhrControlDialog</name>
     <message>
-        <source>Select zPhr to Spend</source>
+        <source>Select zUzl to Spend</source>
         <translation>전송할 zUZL 선택</translation>
     </message>
     <message>
@@ -4291,8 +4291,8 @@ Please be patient...</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPhr</source>
-        <translation>zPhr</translation>
+        <source>zUzl</source>
+        <translation>zUzl</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>

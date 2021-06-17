@@ -2994,7 +2994,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="+52"/>
         <location line="+46"/>
-        <source>Enter an amount of Phr to convert to zPhr</source>
+        <source>Enter an amount of Uzl to convert to zUzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3073,12 +3073,12 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+45"/>
-        <source>zPhr Control</source>
+        <source>zUzl Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>zPhr Selected:</source>
+        <source>zUzl Selected:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3590,7 +3590,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+3"/>
-        <source>zPhr Mint</source>
+        <source>zUzl Mint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5546,27 +5546,27 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+2"/>
-        <source>Converted Phr to zPhr</source>
+        <source>Converted Uzl to zUzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Spent zPhr</source>
+        <source>Spent zUzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Minted Change as zPhr from zPhr Spend</source>
+        <source>Minted Change as zUzl from zUzl Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Converted zPhr to Phr</source>
+        <source>Converted zUzl to Uzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5576,7 +5576,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+22"/>
-        <source>zPhr Accumulator</source>
+        <source>zUzl Accumulator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5715,7 +5715,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Received Phr from zPhr</source>
+        <source>Received Uzl from zUzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5730,7 +5730,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Zerocoin Spend, Change in zPhr</source>
+        <source>Zerocoin Spend, Change in zUzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5943,7 +5943,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <name>ZPhrControlDialog</name>
     <message>
         <location filename="../forms/zphrcontroldialog.ui" line="+20"/>
-        <source>Select zPhr to Spend</source>
+        <source>Select zUzl to Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5959,7 +5959,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-7"/>
-        <source>zPhr</source>
+        <source>zUzl</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

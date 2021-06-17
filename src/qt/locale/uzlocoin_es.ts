@@ -2080,8 +2080,8 @@ https://www.transifex.com/uzlocoin-project/uzlocoin-project-translations</transl
         <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red Uzlocoin después de establecer una conexión, pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
-        <source>Enter an amount of Phr to convert to zPhr</source>
-        <translation>Introduzca la cantidad de Phr que desea convertir a zPhr</translation>
+        <source>Enter an amount of Uzl to convert to zUzl</source>
+        <translation>Introduzca la cantidad de Uzl que desea convertir a zUzl</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2136,12 +2136,12 @@ https://www.transifex.com/uzlocoin-project/uzlocoin-project-translations</transl
         <translation>Estado y/o Mensajes de la última Acción de Creación de moneda.</translation>
     </message>
     <message>
-        <source>zPhr Control</source>
-        <translation>Control zPhr</translation>
+        <source>zUzl Control</source>
+        <translation>Control zUzl</translation>
     </message>
     <message>
-        <source>zPhr Selected:</source>
-        <translation>zPhr Seleccionados:</translation>
+        <source>zUzl Selected:</source>
+        <translation>zUzl Seleccionados:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2478,8 +2478,8 @@ Por favor tenga paciencia...</translation>
         <translation>Gastar Zerocoin falló con estado =</translation>
     </message>
     <message>
-        <source>zPhr Spend #: </source>
-        <translation>Gastar zPhr #:</translation>
+        <source>zUzl Spend #: </source>
+        <translation>Gastar zUzl #:</translation>
     </message>
     <message>
         <source>denomination: </source>
@@ -2502,8 +2502,8 @@ Por favor tenga paciencia...</translation>
         <translation>dirección:</translation>
     </message>
     <message>
-        <source>zPhr Mint</source>
-        <translation>Creación de zPhr</translation>
+        <source>zUzl Mint</source>
+        <translation>Creación de zUzl</translation>
     </message>
     <message>
         <source>Sending successful, return code: </source>
@@ -3959,32 +3959,32 @@ Por favor tenga paciencia...</translation>
         <translation>Ofuscado</translation>
     </message>
     <message>
-        <source>Converted Phr to zPhr</source>
-        <translation>Phr convertidos a zPhr</translation>
+        <source>Converted Uzl to zUzl</source>
+        <translation>Phr convertidos a zUzl</translation>
     </message>
     <message>
-        <source>Spent zPhr</source>
-        <translation>zPhr Gastados</translation>
+        <source>Spent zUzl</source>
+        <translation>zUzl Gastados</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
-        <translation>Phr recibidos desde zPhr</translation>
+        <source>Received Uzl from zUzl</source>
+        <translation>Phr recibidos desde zUzl</translation>
     </message>
     <message>
-        <source>Minted Change as zPhr from zPhr Spend</source>
-        <translation>Cambio Creado en zPhr por un Gasto zPhr</translation>
+        <source>Minted Change as zUzl from zUzl Spend</source>
+        <translation>Cambio Creado en zUzl por un Gasto zUzl</translation>
     </message>
     <message>
-        <source>Converted zPhr to Phr</source>
-        <translation>zPhr convertidos en Phr</translation>
+        <source>Converted zUzl to Uzl</source>
+        <translation>zUzl convertidos en Uzl</translation>
     </message>
     <message>
         <source>watch-only</source>
         <translation>sólo-lectura</translation>
     </message>
     <message>
-        <source>zPhr Accumulator</source>
-        <translation>Acumulador zPhr</translation>
+        <source>zUzl Accumulator</source>
+        <translation>Acumulador zUzl</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -4094,8 +4094,8 @@ Por favor tenga paciencia...</translation>
         <translation>Recompensa de Nodo Maestro</translation>
     </message>
     <message>
-        <source>Received Phr from zPhr</source>
-        <translation>Phr recibidos desde zPhr</translation>
+        <source>Received Uzl from zUzl</source>
+        <translation>Phr recibidos desde zUzl</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>
@@ -4106,8 +4106,8 @@ Por favor tenga paciencia...</translation>
         <translation>Gasto de Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zPhr</source>
-        <translation>Gasto de Zerocoin, Cambio en zPhr</translation>
+        <source>Zerocoin Spend, Change in zUzl</source>
+        <translation>Gasto de Zerocoin, Cambio en zUzl</translation>
     </message>
     <message>
         <source>Zerocoin Spend to Self</source>
@@ -4277,8 +4277,8 @@ Por favor tenga paciencia...</translation>
 <context>
     <name>ZPhrControlDialog</name>
     <message>
-        <source>Select zPhr to Spend</source>
-        <translation>Seleccione zPhr a Gastar</translation>
+        <source>Select zUzl to Spend</source>
+        <translation>Seleccione zUzl a Gastar</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4289,8 +4289,8 @@ Por favor tenga paciencia...</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPhr</source>
-        <translation>zPhr</translation>
+        <source>zUzl</source>
+        <translation>zUzl</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
